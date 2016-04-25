@@ -1,24 +1,24 @@
 
 Diogo:
 
-- Rédaction du MCD
+- RÃ©daction du MCD
 
 ====================================================================================================
 
 Anass:
 
-- Recherches sur le logiciel AnalyseSi
+- Recherches sur le logiciel AnalyseSi et Jmerise
 
 ====================================================================================================
 
-Théo:
+ThÃ©o:
 
-- Rédaction du MDC
+- RÃ©daction du MDC
 
 ====================================================================================================
 
 Nolan:
 
-- Rédaction du "journal de travail "
+- RÃ©daction du "journal de travail "
 
-- Création du repository "P_GestProj2" sur GitHub
+- CrÃ©ation du repository "P_GestProj2" sur GitHub
