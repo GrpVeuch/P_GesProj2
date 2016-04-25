@@ -1,7 +1,9 @@
-
+﻿
 Diogo:
 
 - Rédaction du MCD
+
+- Prise en main de Github
 
 ====================================================================================================
 
@@ -22,3 +24,5 @@ Nolan:
 - Rédaction du "journal de travail "
 
 - Création du repository "P_GestProj2" sur GitHub
+
+- Prise en main de Github
