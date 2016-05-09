@@ -1,0 +1,24 @@
+﻿
+Diogo:
+
+- Création de la page participant
+
+====================================================================================================
+
+Anass:
+
+- Absent (malade) !
+
+====================================================================================================
+
+Théo:
+
+- Insertion des données dans la base de données
+
+====================================================================================================
+
+Nolan:
+
+- Réalisation de la charte graphique du site web
+
+- Rédaction du journal de travail
