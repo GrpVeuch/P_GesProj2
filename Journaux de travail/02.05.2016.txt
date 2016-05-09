@@ -1,0 +1,24 @@
+﻿
+Diogo:
+
+- Rédaction d'une documentation sur la gestion de branche et de pull request
+
+====================================================================================================
+
+Anass:
+
+- Aide Diogo sur la documentation de la gestion de branches et de pull request
+
+====================================================================================================
+
+Théo:
+
+- Réalisation du MPD et de la réalisation de la base de donnée
+
+====================================================================================================
+
+Nolan:
+
+- Aide Théo sur la réalisation du MPD et de la réalisation de la base de donnée
+
+- Réalisation du journal de travail
