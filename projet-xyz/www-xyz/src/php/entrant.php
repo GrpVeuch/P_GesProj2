@@ -1,7 +1,7 @@
 <?php
 // Author : dasilvafdi
 // Date : 20.05.2016 
-// Summary : Formlar to add entrant
+// Summary : Formular to add entrant
 
 // Includes header and menu
 include_once ("header.php");
@@ -18,20 +18,8 @@ include_once ("menu.php");
 			<!-- section initialise -->
 			<section>
 				<!-- Form and validation form initialise -->
-				<form name="formAddTeacher.php" action="formAddTeacher.php" method="post">
+				<form name="" action="" method="post">
 					<table style="...">
-
-						<!-- Photo entry -->
-						<tr>
-							<td>
-								Photo
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<input id="photo" type="text" name="photo" size="1">
-							</td>
-						</tr>
 
 						<!-- Name entry -->
 						<tr>
@@ -68,10 +56,10 @@ include_once ("menu.php");
 							</td>
 						</tr>
 
-						<!-- Origin entry -->
+						<!-- Address entry -->
 						<tr>
 							<td>
-								Origine
+								Adresse
 							</td>
 						</tr>
 						<tr>
@@ -80,49 +68,45 @@ include_once ("menu.php");
 							</td>
 						</tr>
 
-						<!-- Gender selector -->
+						<!-- Mail entry  -->
 						<tr>
 							<td>
-								Genre
+								Mail
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<select name="gender" size="1">
-									<option>M</option>
-									<option>W</option>
-									<option>A</option>
-								</select>
+								<input id="origin" type="text" name="origin">
 							</td>
 						</tr>
-
-						<!-- Section selector -->
+						
+						<!-- Phone number entry  -->
 						<tr>
 							<td>
-								Section
-						</tr>
-						<tr>
-							<td>
-								<select name="section" size="1">
-
-									<!-- Display the db list-->
-									<?php
-
-									// Research all teacher value
-									$db = new DBAccess();
-									$allTeachers = $db->getAllSection();
-
-									// Display  teachers values
-									foreach ($allTeachers as $teacher) {
-										echo "<option>$teacher[secName]</option>";
-									}
-									?>
-								</select>
+								Téléphone
 							</td>
 						</tr>
 						<tr>
 							<td>
-								<!-- Form sender -->
+								<input id="origin" type="text" name="origin">
+							</td>
+						</tr>
+						
+						<!-- AVS number entry  -->
+						<tr>
+							<td>
+								AVS
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input id="origin" type="text" name="origin">
+							</td>
+						</tr>
+						
+						<!-- Form sender -->
+						<tr>
+							<td>
 								<input class="button" id="input" type="submit">
 							</td>
 						</tr>
