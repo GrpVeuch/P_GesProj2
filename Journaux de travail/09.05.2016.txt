@@ -3,6 +3,8 @@ Diogo:
 
 - Création de la page participant
 
+- Trouver une solution aux problèmes de prise en compte de l'arboressence 
+
 ====================================================================================================
 
 Anass:
