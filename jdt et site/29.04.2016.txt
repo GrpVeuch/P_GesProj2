@@ -1,0 +1,24 @@
+﻿
+Diogo:
+
+- Apprentissage de GitHub sur la fonction permettant de créer des branches (fork) et étude des pull request sur Github Desktop
+
+====================================================================================================
+
+Anass:
+
+- Aide apportée à Théo pour la création du MCD sur Jmerise
+
+====================================================================================================
+
+Théo:
+
+- Création du MCD version informatisé sur le logiciel Jmerise avec l'aide de Anass
+
+====================================================================================================
+
+Nolan:
+
+- Rédaction du "journal de travail " en rassemblant les tâches effectuées par le reste du groupe de projet.
+
+- Apprentissage de GitHub sur la fonction permettant de créer des branches (fork)

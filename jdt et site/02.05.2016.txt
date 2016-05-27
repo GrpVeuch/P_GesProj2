@@ -1,0 +1,24 @@
+﻿
+Diogo:
+
+- Apprentissage de GitHub sur la fonction permettant de créer des branches (fork) et étude des pull request sur Github Desktop
+
+====================================================================================================
+
+Anass:
+
+- Aide apportée à Diogo lors de ses recherches sur les branchement ainsi que les pull request
+
+====================================================================================================
+
+Théo:
+
+- Réalisation du MPD en version informatisée à l'aide de PhpMyAdmin et complétion des données de la base de données.
+
+====================================================================================================
+
+Nolan:
+
+- Aide apportée à Théo sur la réalisation du MPD version informatisée ainsi que la complétion des données de la base de données.
+
+- Rédaction du "journal de travail " en rassemblant les tâches effectuées par le reste du groupe de projet.

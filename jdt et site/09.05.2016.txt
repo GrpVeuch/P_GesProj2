@@ -1,0 +1,25 @@
+﻿
+Diogo:
+
+- Création de la page de formulaire pour les participants ainsi qu'une page de php également pour les participants
+
+- Recherche d'une solution permettant de régler le problème qui empêche d'envoyer un répertoire sur Github
+
+====================================================================================================
+
+Anass:
+
+- Absent pour cause de maladie.
+
+====================================================================================================
+
+Théo:
+
+- Complétion de la base de données avec des informations supplémentaires 
+====================================================================================================
+
+Nolan:
+
+- Recherche sur le Framework Sementic ui grâce à la documentation de son site dans le but de savoir s'il serai possible de l'intéger dans le projet. 
+
+- Rédaction du "journal de travail " en rassemblant les tâches effectuées par le reste du groupe de projet.

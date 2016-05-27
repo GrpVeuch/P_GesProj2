@@ -1,0 +1,28 @@
+﻿
+Diogo:
+
+- Rédaction du MCD en version papier pour la passer en version infomatique.
+
+- Prise en main de Github: Comprendre la reprise des différentes versions, appendre a utliliser les fonctions de base de Github Web et Github Desktop tel que le push et le pull
+
+====================================================================================================
+
+Anass:
+
+- Apprentissage pratique des logiciels AnalyseSi et Jmerise. Utilisation de la documentation version informatisé du programme. Effectuer des essais sur les deux progammes et en déduire le plus adéquat des deux. Lequel étant Jmerise.
+
+====================================================================================================
+
+Théo:
+
+- Rédaction du MCD en version papier pour la passer en version infomatique avec l'aide de Diogo
+
+====================================================================================================
+
+Nolan:
+
+- Rédaction du "journal de travail " en rassemblant les tâches effectuées par le reste du groupe de projet.
+
+- Création du repository "P_GestProj2" sur GitHub Web qui accueillera la suite du projet.
+
+- Prise en main de Github: Appendre a utliliser les fonctions de base de Github Web et Github Desktop tel que le push et le pull
